@@ -1,3 +1,1 @@
-📌 Project Overview
-
 This repository contains a fully functional **Burger Shop Web Application** developed using a full-stack approach. It provides an end-to-end food ordering experience with features like dynamic menu browsing, cart management, real-time order handling, and an admin dashboard for shop management. Built with **HTML, CSS, JavaScript (Frontend)**, **Node.js (Backend)**, and **MongoDB (Database)**, the project demonstrates strong teamwork, responsive design, and seamless integration between frontend and backend components.
